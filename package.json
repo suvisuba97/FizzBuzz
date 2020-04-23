@@ -1,0 +1,19 @@
+{
+  "name": "maxbot",
+  "version": "1.0.0",
+  "description": "lets begin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvisuba97/FizzBuzz.git"
+  },
+  "author": "NandhuES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvisuba97/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/suvisuba97/FizzBuzz#readme"
+}
